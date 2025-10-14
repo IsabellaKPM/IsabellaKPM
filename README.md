@@ -12,15 +12,11 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,php,js,c,cs,ruby,html,css,r" />
   </a>
-</p>
 
-<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://go-skill-icons.vercel.app/api/icons?i=jquery,rails,fastapi,scss,bootstrap,react,vite,express,nextjs,sklearn,qt,tensorflow,d3" />
   </a>
-</p>
 
-<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://go-skill-icons.vercel.app/api/icons?i=aws,github,git,nodejs,npm,yarn,mysql,postgres,ubuntu,docker,nginx,dotnet" />
   </a>
