@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋🏻 Hiiii!! I'm Isaa
 
-<!--
-**IsabellaKPM/IsabellaKPM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## ✨ About Me
 
-Here are some ideas to get you started:
+- I'm currently in my 5th year at Civil Computer Engineering at UC.
+- Focused on **clean code**, **refactorization**, **UI/UX** and **optimization**.
+- I'm a **Full Stack Developer**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔮 Languages, Tools and Frameworks I've worked with
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,php,js,c,cs,ruby,html,css,r" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=jquery,rails,fastapi,scss,bootstrap,react,vite,express,nextjs,sklearn,qt,tensorflow,d3" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=aws,github,git,nodejs,npm,yarn,mysql,postgres,ubuntu,docker,nginx,dotnet" />
+  </a>
+</p>
