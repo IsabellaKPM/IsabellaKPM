@@ -10,14 +10,18 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,php,js,c,cs,ruby,html,css,r" />
+    <img src="https://skillicons.dev/icons?i=py,php,js,c,cs,cpp,ruby,html,css,scss,tailwind,r" />
   </a>
 
   <a href="https://skillicons.dev">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=jquery,rails,fastapi,scss,bootstrap,react,vite,express,nextjs,sklearn,qt,tensorflow,d3" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=jquery,rails,fastapi,bootstrap,react,vite,express,nextjs,sklearn,qt,tensorflow,d3" />
   </a>
 
   <a href="https://skillicons.dev">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=aws,github,git,nodejs,npm,yarn,mysql,postgres,ubuntu,docker,nginx,dotnet" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=aws,github,git,nodejs,npm,yarn,mysql,postgres,mongodb,ubuntu,docker,nginx,dotnet" />
+  </a>
+
+  <a href="https://skillicons.dev">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=godot,unity,unreal" />
   </a>
 </p>
