@@ -14,11 +14,11 @@
   </a>
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,php,js,c,cs,cpp,ruby,html,css,scss,tailwind,r" />
+    <img src="https://skillicons.dev/icons?i=py,php,js,c,cs,cpp,ruby,html,css,r" />
   </a>
 
   <a href="https://skillicons.dev">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=jquery,rails,fastapi,bootstrap,react,vite,express,nextjs,sklearn,qt,tensorflow,d3" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=jquery,rails,fastapi,scss,tailwind,bootstrap,react,vite,express,nextjs,sklearn,qt,tensorflow,d3" />
   </a>
 
   <a href="https://skillicons.dev">
