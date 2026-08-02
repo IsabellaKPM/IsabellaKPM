@@ -18,7 +18,7 @@
   </a>
 
   <a href="https://skillicons.dev">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=jquery,rails,fastapi,scss,tailwind,bootstrap,react,vite,express,nextjs,sklearn,qt,tensorflow,d3" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=fastapi,nextjs,nestjs,react,vite,express,rails,tailwind,scss,bootstrap,jquery,sklearn,qt,tensorflow,d3" />
   </a>
 
   <a href="https://skillicons.dev">
