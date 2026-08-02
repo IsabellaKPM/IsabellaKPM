@@ -2,7 +2,7 @@
 
 ## ✨ About Me
 
-- I'm currently in my 5th year at Civil Computer Engineering at UC.
+- I'm currently on my last year at Civil Computer Engineering at UC.
 - Focused on **clean code**, **refactorization**, **UI/UX** and **optimization**.
 - I'm a **Full Stack Developer**.
 
